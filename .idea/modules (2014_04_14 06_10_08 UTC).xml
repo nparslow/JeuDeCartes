@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CartesPourJouer/CartesPourJouer.iml" filepath="$PROJECT_DIR$/CartesPourJouer/CartesPourJouer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeuBase/JeuBase.iml" filepath="$PROJECT_DIR$/JeuBase/JeuBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeuControleur/JeuControleur.iml" filepath="$PROJECT_DIR$/JeuControleur/JeuControleur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeuDeCartes.iml" filepath="$PROJECT_DIR$/JeuDeCartes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PileDeCartes/PileDeCartes.iml" filepath="$PROJECT_DIR$/PileDeCartes/PileDeCartes.iml" />
+    </modules>
+  </component>
+</project>
+

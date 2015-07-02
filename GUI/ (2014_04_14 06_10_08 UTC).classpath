@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/GUI/src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CartesPourJouer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JeuBase"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PileDeCartes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JeuDeCartes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JeuDeCartes_jar</output-path>
+    <root id="archive" name="JeuDeCartes.jar">
+      <element id="module-output" name="CartesPourJouer" />
+      <element id="module-output" name="GUI" />
+      <element id="module-output" name="JeuBase" />
+      <element id="module-output" name="PileDeCartes" />
+      <element id="module-output" name="JeuControleur" />
+      <element id="module-output" name="JeuDeCartes" />
+    </root>
+  </artifact>
+</component>

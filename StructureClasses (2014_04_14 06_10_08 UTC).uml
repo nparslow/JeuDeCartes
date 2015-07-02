@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="187.0" y="235.0">resources</node>
+    <node x="385.5" y="0.0">PileDisplayDirection</node>
+    <node x="235.0" y="610.0">Carte</node>
+    <node x="473.0" y="385.0">com</node>
+    <node x="373.0" y="235.0">netscape</node>
+    <node x="164.5" y="0.0">Jeu</node>
+    <node x="317.0" y="385.0">ScreenLayers</node>
+    <node x="171.0" y="310.0">oracle</node>
+    <node x="455.0" y="460.0">org</node>
+    <node x="147.0" y="535.0">GroupePiles</node>
+    <node x="305.0" y="460.0">sun</node>
+    <node x="554.0" y="235.0">PileCarteVisibilite</node>
+    <node x="293.0" y="535.0">PileCartes</node>
+    <node x="500.0" y="310.0">sunw</node>
+    <node x="0.0" y="385.0">javax</node>
+    <node x="136.5" y="80.0">SimpleSimon</node>
+    <node x="265.5" y="80.0">Bataille</node>
+    <node x="0.0" y="310.0">classes</node>
+    <node x="429.0" y="535.0">JeuPiles</node>
+    <node x="0.0" y="610.0">Display</node>
+    <node x="154.0" y="460.0">NomDeCarte</node>
+    <node x="553.0" y="535.0">Couleur</node>
+    <node x="336.0" y="310.0">javafx</node>
+    <node x="0.0" y="235.0">META-INF</node>
+    <node x="160.0" y="385.0">PileProperties</node>
+    <node x="3.5" y="80.0">FortyAndEight</node>
+    <node x="0.0" y="160.0">FortyAndSeven</node>
+    <node x="0.0" y="535.0">jdk</node>
+    <node x="0.0" y="460.0">java</node>
+    <node x="119.0" y="610.0">Tester</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Bataille" target="Jeu">
+      <point x="0.0" y="-15.0" />
+      <point x="303.0" y="55.0" />
+      <point x="208.66666666666669" y="55.0" />
+      <point x="17.666666666666686" y="15.0" />
+    </edge>
+    <edge source="FortyAndSeven" target="FortyAndEight">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="FortyAndEight" target="Jeu">
+      <point x="0.0" y="-15.0" />
+      <point x="60.0" y="55.0" />
+      <point x="173.33333333333334" y="55.0" />
+      <point x="-17.666666666666657" y="15.0" />
+    </edge>
+    <edge source="SimpleSimon" target="Jeu">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7348484848484849" x="343.680412371134" y="533.6494845360825" />
+  <SelectedNodes>
+    <node>PileDisplayDirection</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
